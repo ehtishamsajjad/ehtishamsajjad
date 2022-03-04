@@ -4,14 +4,11 @@
 
 ## I'm a Front End Developer!!!
 
--   💵 I just started freelancing on Upwork: [Hire me!][upwork]
+-   💵 I freelance on Upwork: [Hire me!][upwork]
 -   📸 I’m currently learning UI/UX
 -   👯 I’m looking to collaborate with other developers
--   🥅 2021 Goals: Contribute by teaching students web development
+-   🥅 2022 Goals: Contribute by teaching university students web development
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ehtishamsajjad1)
 
 ### Connect with me:
 
