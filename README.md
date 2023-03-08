@@ -34,4 +34,4 @@
 [upwork]: https://www.upwork.com/freelancers/~012108938cbacd80a5?s=1110580755057594368
 [twitter]: https://twitter.com/ehtishamsajjad
 [instagram]: https://instagram.com/ehtishamsajjad1
-[linkedin]: https://linkedin.com/in/ehtishamsajjad1
+[linkedin]: https://linkedin.com/in/ehtishamsajjad
