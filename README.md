@@ -32,6 +32,7 @@ As a front-end engineer with over three years of experience, I have a proven tra
 
 ### Connect with me
 
-<p align="left"> <a href="https://www.github.com/ehtishamsajjad1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="left">
 <a href="https://www.linkedin.com/in/ehtishamsajjad/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/ehtishamsajjad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/ehtishamsajjad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
